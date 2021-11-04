@@ -1,5 +1,5 @@
-# house-rating
-This is a house rating project based on Sydney government data and Domain 2021 Sold data.
+# Sydney-Property-Analysis
+This is a Property Analysis project based on Sydney government data and Domain 2021 Sold data.
 
 
 # Ask
